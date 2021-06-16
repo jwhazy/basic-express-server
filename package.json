@@ -1,0 +1,20 @@
+{
+    "name": "basic-express-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node .",
+        "devStart": "nodemon ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "helmet": "^4.6.0"
+    },
+    "devDependencies": {
+
+    }
+}
